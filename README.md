@@ -23,4 +23,3 @@ This project analyzes a dataset of 3,021 debt consolidation leads to identify dr
 
 ## Repository Structure
 * `Aarki_Lead_Analysis.ipynb`: Complete technical analysis and statistical proofs.
-* `Ad_Tech_Case_Study_Deck.pdf`: Executive-level business presentation.
