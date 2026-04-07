@@ -1,4 +1,4 @@
-# Aarki Analytics Challenge: Optimizing Lead Quality & ROI
+Optimizing Lead Quality & ROI
 
 ## Project Overview
 This project analyzes a dataset of 3,021 debt consolidation leads to identify drivers of lead quality and conversion. The primary objective is to reach a 9.6% conversion threshold (Closed Rate) to unlock a 20% CPL increase from the advertiser.
